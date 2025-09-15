@@ -10,4 +10,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,kotlin,go,java,python)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,intellij)](https://skillicons.dev)
