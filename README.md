@@ -7,7 +7,7 @@
 - Me aventurando no mundo da programação competitiva 🏋️‍♀️
 
 ## 💻 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,kotlin,go,java,python)](https://skillicons.dev)
 
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
