@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Milena 👋</h1>
-<h3 align="center">Backend Software Engineer · Computer Engineering Student · Competitive Programmer</h3>
+<h3 align="center">Backend Software Engineer · Computer Engineering Student</h3>
 
 ## ✨ About Me
 
