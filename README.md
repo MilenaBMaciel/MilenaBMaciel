@@ -6,14 +6,14 @@
 - 🎓 Computer Engineering student at **CEFET-MG**, Brazil
 - 🌍 Currently on an **exchange program** at **Université Grenoble Alpes**, France 🇫🇷
 - 💼 Backend engineer with hands-on experience in **Kotlin**, **C#**, **Go** and **Spring Boot**
-- 🏆 Competitive programmer — multiple-time finalist & award winner at SBC's Programming Marathons
+- 🏆 Competitive programmer
 - 🔭 Passionate about clean architecture, reliable APIs, and building things that actually work
 
 ## 🛠️ Tech Stack
 
 **Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,kotlin,java,go,cs,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,kotlin,java,go,cs,python)](https://skillicons.dev)
 
 **Frameworks & Tools:**
 
